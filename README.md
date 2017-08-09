@@ -1,5 +1,4 @@
-# media_stats
-Media stats micorservice
+# Media stats micorservice
 
 # How to run
 docker-compose up
