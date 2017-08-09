@@ -1,0 +1,17 @@
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Idea project file
+.idea/
+
+# Vendor packages
+vendor/*
+
+# Ignore govendor config
+!vendor/vendor.json
+
+# Tmp folder
+tmp/
